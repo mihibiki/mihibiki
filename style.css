@@ -104,7 +104,7 @@ img {
 
 /*News*/
 #news{
-    background-image: url(news.jpg);
+    background-image: url(https://github.com/mihibiki/mihibiki/blob/main/news.jpg?raw=true);
     height: 450px;
     margin-bottom: 40px;
 }
