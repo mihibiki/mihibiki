@@ -95,7 +95,7 @@ img {
 }
 
 #home{
-    background-image: url(../images/top_2.jpg);
+    background-image: url(top_2.jpg);
     min-height: 100vh;
 }
 #home .page-title{
@@ -104,7 +104,7 @@ img {
 
 /*News*/
 #news{
-    background-image: url(../images/news.jpg);
+    background-image: url(news.jpg);
     height: 450px;
     margin-bottom: 40px;
 }
@@ -207,7 +207,7 @@ article p{
 
 /*Books*/
 #books{
-    background-image: url(../images/books.jpg);
+    background-image: url(books.jpg);
     height: 450px;
     margin-bottom: 40px;
 }
@@ -237,7 +237,7 @@ article{
 
 /*Places*/
 #place{
-    background-image: url(../images/place.jpg);
+    background-image: url(place.jpg);
     height: 450px;
     margin-bottom: 40px;
 }
