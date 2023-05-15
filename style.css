@@ -95,7 +95,7 @@ img {
 }
 
 #home{
-    background-image: url(top_2.jpg);
+    background-image: url(https://github.com/mihibiki/mihibiki/blob/main/top_2.jpg?raw=true);
     min-height: 100vh;
 }
 #home .page-title{
@@ -207,7 +207,7 @@ article p{
 
 /*Books*/
 #books{
-    background-image: url(books.jpg);
+    background-image: url(https://github.com/mihibiki/mihibiki/blob/main/books.jpg?raw=true);
     height: 450px;
     margin-bottom: 40px;
 }
@@ -237,7 +237,7 @@ article{
 
 /*Places*/
 #place{
-    background-image: url(https://github.com/mihibiki/mihibiki/blob/main/books.jpg?raw=true);
+    background-image: url(https://github.com/mihibiki/mihibiki/blob/main/place.jpg?raw=true);
     height: 450px;
     margin-bottom: 40px;
 }
